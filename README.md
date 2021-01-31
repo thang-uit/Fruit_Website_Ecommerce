@@ -3,4 +3,4 @@
 
 - Frond-End: HTML, CSS, Javascript, Jquery(Ajax)
 - Back-End: PHP 7.0
-- Database: MySQL(Php Myadmin)
+- Database: MySQL(PHP Myadmin)
